@@ -86,7 +86,7 @@ namespace Demo_C__5_OOP
             Console.WriteLine(RecArea);
              Console.WriteLine(area.Perimeter);
             Square square = new Square(50);
-            Circle circle = new Circle(30); 
+            Circle circle = new Circle(30);  
             Console.WriteLine(circle.CalcArea());
              
             
